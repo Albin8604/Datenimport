@@ -1,6 +1,6 @@
 # Datenimport
 
-Jackson Dep.: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core
+Jackson Dep.: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
 
 Gson Dep.: https://mvnrepository.com/artifact/com.google.code.gson/gson
 
